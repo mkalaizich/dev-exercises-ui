@@ -65,23 +65,23 @@ Please answer each of the following questions within the README.md file of your 
 
 Q: Which browser would you prefer we test this in ?
 
-A: 
+A: Chrome, Firefox
 
 Q: How long did you work on this programming exercise for ?
 
-A: 
+A: About 3 and a half hours.
 
 Q: What websites did you use to help you complete this exercise (please provide links) ?
 
-A: 
+A: http://www.w3schools.com/. I also checked on some previous exercises i'd done while I was in the Bootcamp.
 
 Q: If you had more time, how would you improve your implementation ?
 
-A: 
+A: I would add some animations when the dropdown menu shows.
 
 Q: Anything else you'd like us to know ?
 
-A: 
+A: Not particulary.
 
 ### MIT License ###
 ##### Copyright (c) 2016 Esteban Spina #####
